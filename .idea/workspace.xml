@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f5ee5be-ae2c-4421-bb57-96349b8dacee" name="Changes" comment="" />
+    <list default="true" id="0f5ee5be-ae2c-4421-bb57-96349b8dacee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryToDecimalConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryToDecimalConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecimalToOctalConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecimalToOctalConversion.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="OctalToDecimalConversion" />
+        <entry key="$PROJECT_DIR$" value="HexadecimalToDecimalConversion" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,15 +45,15 @@
   }
 }</component>
   <component name="RunManager" selected="Application.DecimalToOctalConversion">
-    <configuration name="BinaryToDecimalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryToDecimalConversion" />
+    <configuration name="DecimalToBinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToBinaryConversion" />
       <module name="sample_program_31to40" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalToBinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalToBinaryConversion" />
+    <configuration name="DecimalToHexadecimalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecimalToHexadecimalConversion" />
       <module name="sample_program_31to40" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,10 +83,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DecimalToOctalConversion" />
+        <item itemvalue="Application.DecimalToHexadecimalConversion" />
         <item itemvalue="Application.HexadecimalToDecimalConversion" />
         <item itemvalue="Application.OctalToDecimalConversion" />
         <item itemvalue="Application.DecimalToBinaryConversion" />
-        <item itemvalue="Application.BinaryToDecimalConversion" />
       </list>
     </recent_temporary>
   </component>

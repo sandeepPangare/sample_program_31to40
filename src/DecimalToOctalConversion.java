@@ -15,6 +15,6 @@ public class DecimalToOctalConversion {
             temp = temp / 8;
             octal = rem + octal;
         }
-        System.out.println("Octal Equivalent of " + num + " is " + octal);
+        System.out.println("Octal Value of " + num + " is " + octal);
     }
 }
