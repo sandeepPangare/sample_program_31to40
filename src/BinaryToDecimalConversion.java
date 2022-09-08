@@ -12,9 +12,9 @@ public class BinaryToDecimalConversion {
         int i = 0;
 
         while (temp > 0) {
-            int r = temp % 10;
+            int rem = temp % 10;
             temp = temp / 10;
-            decimal= decimal + r * (int) Math.pow(2, i++);
+            decimal= decimal + rem * (int) Math.pow(2, i++);
         }
         System.out.println("Decimal of " + num + " is " + decimal);
     }
