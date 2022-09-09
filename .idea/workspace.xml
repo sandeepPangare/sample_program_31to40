@@ -22,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="DecimalToHexadecimalConversion" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,16 +42,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinaryToOctalConversion">
+  <component name="RunManager" selected="Application.OctalToBinaryConversion">
     <configuration name="BinaryToOctalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryToOctalConversion" />
-      <module name="sample_program_31to40" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecimalToHexadecimalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalToHexadecimalConversion" />
       <module name="sample_program_31to40" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OctalToBinaryConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OctalToBinaryConversion" />
+      <module name="sample_program_31to40" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuadrantInGivenCoardinateLies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="QuadrantInGivenCoardinateLies" />
       <module name="sample_program_31to40" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OctalToBinaryConversion" />
         <item itemvalue="Application.BinaryToOctalConversion" />
         <item itemvalue="Application.QuadrantInGivenCoardinateLies" />
         <item itemvalue="Application.DecimalToOctal" />
         <item itemvalue="Application.DecimalToOctalConversion" />
-        <item itemvalue="Application.DecimalToHexadecimalConversion" />
       </list>
     </recent_temporary>
   </component>
