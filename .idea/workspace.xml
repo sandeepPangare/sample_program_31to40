@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f5ee5be-ae2c-4421-bb57-96349b8dacee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecimalToOctal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecimalToOctal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="DecimalToOctalConversion" />
+        <entry key="$PROJECT_DIR$" value="DecimalToHexadecimalConversion" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DecimalToOctal">
+  <component name="RunManager" selected="Application.QuadrantInGivenCoardinateLies">
     <configuration name="DecimalToHexadecimalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DecimalToHexadecimalConversion" />
       <module name="sample_program_31to40" />
@@ -72,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OctalToDecimalConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OctalToDecimalConversion" />
+    <configuration name="QuadrantInGivenCoardinateLies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuadrantInGivenCoardinateLies" />
       <module name="sample_program_31to40" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuadrantInGivenCoardinateLies" />
         <item itemvalue="Application.DecimalToOctal" />
         <item itemvalue="Application.DecimalToOctalConversion" />
         <item itemvalue="Application.DecimalToHexadecimalConversion" />
         <item itemvalue="Application.HexadecimalToDecimalConversion" />
-        <item itemvalue="Application.OctalToDecimalConversion" />
       </list>
     </recent_temporary>
   </component>
